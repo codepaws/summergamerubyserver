@@ -1,0 +1,2 @@
+class CTowerAttack_HandleGameEvent_Response
+end

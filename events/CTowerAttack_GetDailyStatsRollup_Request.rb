@@ -1,0 +1,2 @@
+class CTowerAttack_GetDailyStatsRollup_Request
+end

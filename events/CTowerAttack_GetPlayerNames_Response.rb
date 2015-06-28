@@ -1,0 +1,3 @@
+class CTowerAttack_GetPlayerNames_Response
+
+end

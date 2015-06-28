@@ -1,0 +1,2 @@
+class CTowerAttack_UseAbilities_Response
+end

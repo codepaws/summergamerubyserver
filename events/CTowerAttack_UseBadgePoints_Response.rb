@@ -1,0 +1,2 @@
+class CTowerAttack_UseBadgePoints_Response
+end

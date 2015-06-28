@@ -1,0 +1,2 @@
+class CTowerAttack_GetTuningData_Response
+end

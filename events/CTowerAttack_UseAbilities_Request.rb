@@ -1,0 +1,3 @@
+class CTowerAttack_UseAbilities_Request
+
+end
