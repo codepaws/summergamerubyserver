@@ -1,3 +1,6 @@
+require_relative 'CTowerAttack_PlayerData.rb'
+require_relative 'CTowerAttack_PlayerTechTree.rb'
+
 puts "################################################"
 puts "Loading Events"
 
