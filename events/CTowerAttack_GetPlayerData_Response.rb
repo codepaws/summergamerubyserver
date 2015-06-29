@@ -15,9 +15,6 @@ class CTowerAttack_GetPlayerData_Response
     )
 
     tech_tree = nil
-    puts "-------------------------------------------------"
-    pp include_tech_tree
-    puts "-------------------------------------------------"
     if include_tech_tree != 0
       tech_tree_db = PlayerTechTree.first(:steamid => steamid)
 
